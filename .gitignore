@@ -1,3 +1,8 @@
 MNIST/Code/lrp/functional/__pycache__/
 CIFAR/data/*
 MNIST/data/*
+*.pth
+CIFAR/Code/.ipynb_checkpoints/
+CIFAR/Code/__pycache__/
+*.pyc
+MNIST/Code/.ipynb_checkpoints/
